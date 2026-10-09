@@ -1,4 +1,4 @@
-temperature=None 
+
 
 def temperature_message(temp):
     if temp is None:
@@ -31,5 +31,3 @@ z=annee_bissextile(2000)
 print(x)
 print(y)
 print(z)
-
-      
